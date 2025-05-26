@@ -172,11 +172,11 @@ The visualization employs a systematic hierarchy of node types:
 - **💪 Capability** (Level 3): High-level functional abilities
 - **🔄 Function** (Level 4): Specific operational processes
 - **📋 Specification** (Level 5): Technical requirements and standards
-- **🔗 Integration** (Level 5): Implementation approaches
-- **🛠 Technique** (Level 5): Methodological approaches
-- **🎯 Application** (Level 5): Practical implementations
-- **📥 Input** (Level 5): Data and resources entering the system
-- **📤 Output** (Level 5): Results and products from processes
+- **🔗 Integration** (Level 6): Implementation approaches
+- **🛠 Technique** (Level 7): Methodological approaches
+- **🎯 Application** (Level 8): Practical implementations
+- **📥 Input** (Level 9): Data and resources entering the system
+- **📤 Output** (Level 9): Results and products from processes
 
 ## 🤝 Contributing
 
